@@ -11,7 +11,7 @@
 
 getName();
 console.log(x);
-console.log(getName)
+console.log(getName);
 sum();
 
 var x = 7;
